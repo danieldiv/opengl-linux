@@ -4,7 +4,7 @@ Instalação e exemplo de uso do OpenGL no linux Ubuntu
 
 ## Instalação
 
-```
+```C++
 sudo apt update
 
 // bibliotecas para compilacao do gcc
