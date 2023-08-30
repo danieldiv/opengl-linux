@@ -1,5 +1,11 @@
 # opengl-linux
 
+![C++](https://img.shields.io/badge/Linguagem-C++-green.svg)
+![Make](https://img.shields.io/badge/Compilacao-Make-orange)
+![VSCode](https://img.shields.io/badge/IDE-VSCode-informational)
+![ISO](https://img.shields.io/badge/ISO-Linux-blueviolet)
+![License](https://badgen.net/badge/license/MIT/green)
+
 Instalação e exemplo de uso do OpenGL no linux Ubuntu
 
 ## Instalação
