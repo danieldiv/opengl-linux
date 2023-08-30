@@ -17,6 +17,14 @@ sudo apt install mesa-common-dev
 sudo apt install libglew-dev
 sudo apt install libglfw3-dev
 
-// execução
+// compilacao para unico arquivo
 g++ -o main main.cpp -lGL -lGLEW -lglfw
 ```
+
+## Compilação com Makefile
+
+> make clean
+>
+> make
+>
+> make run
