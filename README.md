@@ -22,6 +22,7 @@ sudo apt install mesa-common-dev
 // instalacao do glew e o glfw
 sudo apt install libglew-dev
 sudo apt install libglfw3-dev
+sudo apt install libglm-dev
 
 // compilacao para unico arquivo
 g++ -o main main.cpp -lGL -lGLEW -lglfw
