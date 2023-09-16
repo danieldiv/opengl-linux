@@ -19,7 +19,7 @@ sudo apt install build-essential
 // instalacao das bibliotecas do OpenGL
 sudo apt install mesa-common-dev
 
-// instalacao do glew e o glfw
+// instalacao do glew, glfw e glm
 sudo apt install libglew-dev
 sudo apt install libglfw3-dev
 sudo apt install libglm-dev
